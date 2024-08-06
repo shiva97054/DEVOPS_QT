@@ -10,7 +10,7 @@ public class EvenOdd {
 
  else
 
- System.out.println(num + ” is odd.”);
+ System.out.println(num + ” is odd.”);     //print with odd & even
 
  }
 
